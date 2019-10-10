@@ -26,6 +26,8 @@ public class HelloFriend {
 	public void test1(){
 
 	}
+	public void test2(){
 
+	}
 
 }
