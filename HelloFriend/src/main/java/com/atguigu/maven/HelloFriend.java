@@ -23,4 +23,9 @@ public class HelloFriend {
 		return "John";
 	}
 
+	public void test1(){
+
+	}
+
+
 }
